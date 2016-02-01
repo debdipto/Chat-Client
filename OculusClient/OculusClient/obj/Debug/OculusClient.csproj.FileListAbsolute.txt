@@ -1,0 +1,43 @@
+i:\users\debdipto ghoshal\documents\visual studio 2012\Projects\OculusClient\OculusClient\bin\Debug\OculusClient.exe.config
+G:\Cerebro\C#\Source\Projects\OculusClient\OculusClient\bin\Debug\OculusClient.exe.config
+G:\Cerebro\C#\Source\Projects\OculusClient\OculusClient\bin\Debug\OculusClient.exe
+G:\Cerebro\C#\Source\Projects\OculusClient\OculusClient\bin\Debug\OculusClient.pdb
+G:\Cerebro\C#\Source\Projects\OculusClient\OculusClient\obj\Debug\OculusClient.csprojResolveAssemblyReference.cache
+G:\Cerebro\C#\Source\Projects\OculusClient\OculusClient\obj\Debug\OculusClient.ConnectTo.resources
+G:\Cerebro\C#\Source\Projects\OculusClient\OculusClient\obj\Debug\OculusClient.frm_Main.resources
+G:\Cerebro\C#\Source\Projects\OculusClient\OculusClient\obj\Debug\OculusClient.Properties.Resources.resources
+G:\Cerebro\C#\Source\Projects\OculusClient\OculusClient\obj\Debug\OculusClient.csproj.GenerateResource.Cache
+G:\Cerebro\C#\Source\Projects\OculusClient\OculusClient\obj\Debug\OculusClient.exe
+G:\Cerebro\C#\Source\Projects\OculusClient\OculusClient\obj\Debug\OculusClient.pdb
+E:\C# backup\OculusClient\OculusClient\bin\Debug\OculusClient.exe.config
+E:\C# backup\OculusClient\OculusClient\bin\Debug\OculusClient.exe
+E:\C# backup\OculusClient\OculusClient\bin\Debug\OculusClient.pdb
+E:\C# backup\OculusClient\OculusClient\obj\Debug\OculusClient.ConnectTo.resources
+E:\C# backup\OculusClient\OculusClient\obj\Debug\OculusClient.frm_Main.resources
+E:\C# backup\OculusClient\OculusClient\obj\Debug\OculusClient.Properties.Resources.resources
+E:\C# backup\OculusClient\OculusClient\obj\Debug\OculusClient.csproj.GenerateResource.Cache
+E:\C# backup\OculusClient\OculusClient\obj\Debug\OculusClient.exe
+E:\C# backup\OculusClient\OculusClient\obj\Debug\OculusClient.pdb
+E:\C# backup\OculusClient\OculusClient\obj\Debug\OculusClient.csprojResolveAssemblyReference.cache
+E:\C# backup\Oculus 3.0\OculusClient\OculusClient\bin\Debug\OculusClient.exe.config
+E:\C# backup\Oculus 3.0\OculusClient\OculusClient\obj\Debug\OculusClient.exe
+E:\C# backup\Oculus 3.0\OculusClient\OculusClient\obj\Debug\OculusClient.pdb
+E:\C# backup\Oculus 3.0\OculusClient\OculusClient\bin\Debug\OculusClient.exe
+E:\C# backup\Oculus 3.0\OculusClient\OculusClient\bin\Debug\OculusClient.pdb
+E:\C# backup\Oculus 3.0\OculusClient\OculusClient\obj\Debug\OculusClient.csprojResolveAssemblyReference.cache
+E:\C# backup\Oculus 3.0\OculusClient\OculusClient\obj\Debug\OculusClient.ConnectTo.resources
+E:\C# backup\Oculus 3.0\OculusClient\OculusClient\obj\Debug\OculusClient.frm_Main.resources
+E:\C# backup\Oculus 3.0\OculusClient\OculusClient\obj\Debug\OculusClient.Properties.Resources.resources
+E:\C# backup\Oculus 3.0\OculusClient\OculusClient\obj\Debug\OculusClient.csproj.GenerateResource.Cache
+E:\C# backup\Amaranthine\OculusClient\OculusClient\bin\Debug\OculusClient.exe.config
+E:\C# backup\Amaranthine\OculusClient\OculusClient\bin\Debug\OculusClient.exe
+E:\C# backup\Amaranthine\OculusClient\OculusClient\bin\Debug\OculusClient.pdb
+E:\C# backup\Amaranthine\OculusClient\OculusClient\bin\Debug\Newtonsoft.Json.dll
+E:\C# backup\Amaranthine\OculusClient\OculusClient\bin\Debug\Newtonsoft.Json.xml
+E:\C# backup\Amaranthine\OculusClient\OculusClient\obj\Debug\OculusClient.csprojResolveAssemblyReference.cache
+E:\C# backup\Amaranthine\OculusClient\OculusClient\obj\Debug\OculusClient.ConnectTo.resources
+E:\C# backup\Amaranthine\OculusClient\OculusClient\obj\Debug\OculusClient.frm_Main.resources
+E:\C# backup\Amaranthine\OculusClient\OculusClient\obj\Debug\OculusClient.Properties.Resources.resources
+E:\C# backup\Amaranthine\OculusClient\OculusClient\obj\Debug\OculusClient.csproj.GenerateResource.Cache
+E:\C# backup\Amaranthine\OculusClient\OculusClient\obj\Debug\OculusClient.exe
+E:\C# backup\Amaranthine\OculusClient\OculusClient\obj\Debug\OculusClient.pdb
